@@ -16,7 +16,8 @@
   "bugs": {
     "url": "https://github.com/sing8553/ChatApp/issues"
   },
-  "homepage": "https://github.com/sing8553/ChatApp#readme"
+  "homepage": "https://github.com/sing8553/ChatApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
-
-
